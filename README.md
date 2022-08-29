@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align='center'>QUOTOMS</h1>
+<p align='center'><strong>Dmitrie Baew</strong></p>
 
 <!--
 **quotows/quotows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
