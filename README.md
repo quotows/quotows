@@ -96,4 +96,30 @@ Fullstack QA инженер с коммерческим опытом работ�
 SKILLS
 **QA**: Python, Pytest, Requests, Playwright, Allure, SQL, noSQL, TestRail, Test Strategy, Test Plan, Test Case, API Testing, System Testing, Network Testing, Security Testing, Performance/Load Testing
 **Other**: Git, Jira, Confluence, CI/CD, Helm, K8s, K6, Grafana, Prometheus, Jenkins, ArgoCD, ArgoWorkflows
+
+Bullets
+#1
+Designed and implemented autotests, covering 85% of critical functionality, reducing bugs in production by 30%.
+Optimized test scripts, reducing duplication by 50% and speeding up test execution.
+Configured integration testing in CI/CD, reducing defects at the build stage by 40%.
+#2
+Successfully implemented prod testing (canary release, feature toggles), minimizing release risks.
+Implemented automation, reducing regression testing time by 50%.
+Migrated the deployment system (K8s) to Kind.Rollout, connecting ArgoWorkflows for additional automation and reducing DevOps and QA costs for Delivery time by another 30%
+Built a Delivery strategy, reducing Cycle Time to 3 weeks in a bad case (from 5 weeks in the same conditions).
+Managed a team of 6 specialists, increasing their productivity and automation competencies and increasing release velocity by 25%.
+#3
+Automated API and UI testing, reducing manual testing costs by 50%.
+Implemented test data through mock services, reducing dependence on third-party APIs by 70%.
+Set up Code Review processes for tests, increasing code readability and support by 70%.
+Reduced incident analysis time by 30% by implementing logging and alerts in tests.
+Helped develop a microservice architecture testing strategy, reducing regression detection time by 35%.
+Developed internal documentation for test automation, lowering the entry threshold for new QA engineers.
+#4
+Successfully scaled the test infrastructure, increasing the CI/CD pipeline throughput by 2x.
+Configured test stability monitoring, reducing flaky tests by 60%.
+Ensured testing processes meet quality standards (ISO, ISTQB) by improving defect control.
+Automated load testing, identifying bottlenecks and improving system performance by 20%.
+Ensured test compatibility across multiple browsers and devices, reducing bugs in a cross-platform environment by 45%.
+Configured security testing (SAST, DAST), identifying vulnerabilities at the development stage.
 -->
