@@ -1,6 +1,6 @@
-<div align='right'>Fullstack QA Engineer 🐍
+<div align='right'>Senior QA Engineer 🐍
   <br/>
-  GMT+1
+  GMT+3
 </div>
 <h1 align='center'>
   <a href='https://www.linkedin.com/in/dmitry-baev-40544134a/'>DMITRY BAEV</a>
@@ -18,7 +18,7 @@
 
 <br clear='both'>
 <h2 align='center'>👩‍💻 ABOUT</h5>
-<p>Fullstack QA Engineer with commercial experience working in teams of 5-44, both remote and onsite. One year of team leadership and project management experience. Capable of building automated product release process with high test coverage across all layers. Gathered requirements from product owner and CEO. Experienced in writing automated tests on both back- and front-end, using Python tools and its major libraries (pytest, requests, playwright, etc).</p>
+<p>Fullstack QA Engineer with commercial experience working in teams of 5-44, both remote and onsite. One year of team leadership and project management experience. Capable of building automated product release process with high test coverage across all layers. Gathered requirements from product owner and CEO. Experienced in writing automated tests on both back- and front-end, using Python tools and its major libraries (asyncio, pytest, requests, pydantic, numpy, pandas, playwright, selenium, appium, allure, etc.).</p>
 <p>Implemented many Helm manifests aimed at automating deployment systems using Kubernetes tools to improve service state management across all stages of testing, in addition to knowledge of Python and QA realm.</p>
 
 <br clear='both'>
