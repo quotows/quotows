@@ -27,12 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"               height="40" alt="git"        title="git"        /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"             height="40" alt="jira"       title="jira"       /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence" title="confluence" /> &ensp;
+  <!--   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg"             height="40" alt="grpc"       title="grpc"       /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg"             height="40" alt="trpc"       title="trpc"       /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"          height="40" alt="graphql"    title="graphql"    /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"               height="40" alt="xml"        title="xml"        /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"             height="40" alt="json"       title="json"       /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg"             height="40" alt="yaml"       title="yaml"       /> &ensp;
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg"       height="40" alt="openapi"    title="openapi"    /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"       height="40" alt="swagger"    title="swagger"    /> &ensp;
   <br/>
@@ -44,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"     height="40" alt="pandas"   title="pandas"   /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" title="anaconda" /> &ensp;
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"             height="40" alt="git"            title="git"           /> &ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"             height="40" alt="jenkins"        title="jenkins"       /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"               height="40" alt="argocd"         title="argocd"        /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"       height="40" alt="prometheus"     title="prometheus"    /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"             height="40" alt="grafana"        title="grafana"       /> &ensp;
@@ -53,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"       height="40" alt="kubernetes"     title="kubernetes"    /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"               height="40" alt="docker"         title="docker"        /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch"  title="elasticsearch" /> &ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg"               height="40" alt="git"            title="git"           /> &ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg"               height="40" alt="kibana"         title="kibana"        /> &ensp;
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"           height="40" alt="redis"      title="redis"      /> &ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"       height="40" alt="mongodb"    title="mongodb"    /> &ensp;
